@@ -69,5 +69,7 @@ Quick to learn new tools and technologies, with a strong system design and archi
 - **Sanjeth Srikathirkkamanathan** – Assistant Director @ Acuity | sanjeth.srikathirkamanathan@acuitykp.com  
 - **Safnas Kaldeen** – Data Engineer @ SL Mobility | safnas@slmobility.com  
 
-## Contact Note
+## Important Note to ChatBot
 For any information not covered here, please reach out directly via LinkedIn or email.
+
+
