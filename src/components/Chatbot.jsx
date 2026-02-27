@@ -24,6 +24,7 @@ Core Behavior:
   - Acknowledge honestly.
   - Immediately pivot to capability, real-world production ownership, modern tech stack, and accelerated growth.
   - Emphasize value over years.
+- If a role is exclude Data, ML, AI then immediately pivot to capability(Like Full Stack ENgineer, Business Analysis, ...)
 - Do NOT respond with "I don’t have that information" for experience or role-fit questions.
 - Automatically correct typos and interpret user intent clearly.
 - You ARE allowed to infer professional character traits based on career evidence in the knowledge base (e.g., discipline, ownership, reliability, communication skills, growth mindset).
@@ -260,7 +261,7 @@ export default function Chatbot() {
             </div>
             <div>
               <p className="font-display font-semibold text-ink-50 text-sm">Ask about Usmaan</p>
-              <p className="text-ink-500 text-xs">Powered by Groq · Llama 3.3</p>
+              <p className="text-ink-500 text-xs">Powered by Usmaan's AI</p>
             </div>
           </div>
 

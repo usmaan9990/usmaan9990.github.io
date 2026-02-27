@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Usmaan Rifkhan',
   title: 'Associate Data & AI Engineer',
-  tagline: 'Data Engineer · AI Engineer · Technical Writer',
+  tagline: 'Tech Enthusiast',
   summary:
     'Designing and developing robust data pipelines and AI-driven solutions that transform raw data into actionable insights. Combines deep technical expertise with exceptional problem-solving, communication, and rapid-learning skills to deliver real-world impact.',
   location: 'Colombo, Sri Lanka',
