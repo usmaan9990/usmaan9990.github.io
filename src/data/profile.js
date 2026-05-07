@@ -82,6 +82,36 @@ export const skills = [
   },
 ];
 
+// export const experience = [
+//   {
+//     role: 'Associate Data & AI Engineer',
+//     company: 'SL Mobility (PVT) LTD',
+//     type: 'Full-Time',
+//     period: 'Jan 2026 – Present',
+//     current: true,
+//     responsibilities: [
+//       'Built and maintained batch ETL pipelines for battery station data, ensuring reliable ingestion and availability for analytics and reporting.',
+//       'Monitored production pipelines, performed root-cause analysis on failures, and troubleshot data quality and runtime issues.',
+//       'Standardized and improved existing data pipelines for easier maintenance and operational efficiency.',
+//       'Supported Snowflake-based data processing, optimizing workflows for cost and performance.',
+//       'Developed AI-powered internal applications and workflow automations to enhance operational efficiency.',
+//     ],
+//   },
+//   {
+//     role: 'Intern Data & AI Engineer',
+//     company: 'EverestX Technologies (outsourced to SL Mobility)',
+//     type: 'Internship',
+//     period: 'July 2025 – Dec 2025',
+//     current: false,
+//     responsibilities: [
+//       'Assisted senior engineers in maintaining and improving batch data pipelines.',
+//       'Supported Snowflake data ingestion and transformation workflows during migration and operational activities.',
+//       'Built internal AI-powered workflow automations for practical use cases, integrating APIs and services.',
+//       'Collaborated with engineering and business teams to understand requirements and deliver actionable data solutions.',
+//     ],
+//   },
+// ];
+
 export const experience = [
   {
     role: 'Associate Data & AI Engineer',
@@ -89,6 +119,7 @@ export const experience = [
     type: 'Full-Time',
     period: 'Jan 2026 – Present',
     current: true,
+    freelance: false, 
     responsibilities: [
       'Built and maintained batch ETL pipelines for battery station data, ensuring reliable ingestion and availability for analytics and reporting.',
       'Monitored production pipelines, performed root-cause analysis on failures, and troubleshot data quality and runtime issues.',
@@ -103,11 +134,28 @@ export const experience = [
     type: 'Internship',
     period: 'July 2025 – Dec 2025',
     current: false,
+    freelance: false,  
     responsibilities: [
       'Assisted senior engineers in maintaining and improving batch data pipelines.',
       'Supported Snowflake data ingestion and transformation workflows during migration and operational activities.',
       'Built internal AI-powered workflow automations for practical use cases, integrating APIs and services.',
       'Collaborated with engineering and business teams to understand requirements and deliver actionable data solutions.',
     ],
+  },
+  {
+    role: 'Freelance Developer',
+    company: 'Self-Employed',
+    type: 'Freelance',
+    period: 'Apr 2023 – Present',
+    current: false,
+    freelance: true,
+    responsibilities: [
+    'Designed and developed custom websites and landing pages for startups and small businesses.',
+    'Built full-featured e-commerce platforms with product management, cart, and payment integrations.',
+    'Developed management systems including madrasa and school management systems.',
+    'Built AI automation workflows to streamline business operations and improve efficiency.',
+    'Conducted R&D on machine learning models and explored AI-driven solutions for real-world applications.',
+    'Collaborated directly with clients to gather requirements and deliver end-to-end web solutions.',
+  ],
   },
 ];
