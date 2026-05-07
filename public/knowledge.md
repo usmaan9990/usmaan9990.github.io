@@ -60,6 +60,15 @@ Quick to learn new tools and technologies, with a strong system design and archi
 - Built internal AI-powered workflow automations for practical use cases, integrating APIs and services.  
 - Collaborated with engineering and business teams to understand requirements and deliver actionable data solutions.  
 
+### Freelance Developer - Freelance Software Engineer (FullStack, AI, Data, ML)
+
+- Designed and developed custom websites and landing pages for startups and small businesses.
+- Built full-featured e-commerce platforms with product management, cart, and payment integrations.
+- Developed management systems including madrasa and school management systems.
+- Built AI automation workflows to streamline business operations and improve efficiency.
+- Conducted R&D on machine learning models and explored AI-driven solutions for real-world applications.
+- Collaborated directly with clients to gather requirements and deliver end-to-end web solutions.
+
 ## Languages
 - English  
 - Sinhala  
