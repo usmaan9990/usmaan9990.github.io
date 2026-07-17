@@ -80,7 +80,7 @@ Quick to learn new tools and technologies, with a strong system design and archi
 
 ## International Opportunities
 
-Usmaan is open to international and overseas opportunities, including relocation and long-term employment. He is willing to work in countries such as Saudi Arabia (including Riyadh), the UAE, Qatar, Europe, and other international locations.
+Usmaan is open to international and overseas opportunities, including relocation and long-term employment. He is willing to work in countries such as Saudi Arabia , the UAE, Qatar, Europe, Australia and other international locations.
 
 He is passionate about solving real-world technical challenges and enjoys working in diverse, multicultural environments. He is confident in adapting quickly to new teams, technologies, and business domains, and is committed to demonstrating his skills and delivering high-quality results wherever he works.
 
