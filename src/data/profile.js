@@ -58,11 +58,11 @@ export const certifications = [
 export const skills = [
   {
     category: 'Programming',
-    items: ['Python', 'JavaScript','SQL', 'R', 'Bash'],
+    items: ['Python', 'JavaScript', 'SQL', 'R', 'Bash'],
   },
   {
     category: 'Data Engineering',
-    items: ['Snowflake', 'dbt', 'Apache Airflow', 'PySpark','ETL & ELT Pipelines'],
+    items: ['Snowflake', 'dbt', 'Apache Airflow', 'PySpark', 'ETL & ELT Pipelines'],
   },
   {
     category: 'AI / LLMs',
@@ -78,7 +78,7 @@ export const skills = [
   },
   {
     category: 'Soft Skills',
-    items: ['Communication','Technical Writing', 'Problem Solving', 'Documentation', 'Collaboration'],
+    items: ['Communication', 'Technical Writing', 'Problem Solving', 'Documentation', 'Collaboration'],
   },
 ];
 
@@ -119,7 +119,7 @@ export const experience = [
     type: 'Full-Time',
     period: 'Jan 2026 – Present',
     current: true,
-    freelance: false, 
+    freelance: false,
     responsibilities: [
       'Built and maintained batch ETL pipelines for battery station data, ensuring reliable ingestion and availability for analytics and reporting.',
       'Monitored production pipelines, performed root-cause analysis on failures, and troubleshot data quality and runtime issues.',
@@ -134,7 +134,7 @@ export const experience = [
     type: 'Internship',
     period: 'July 2025 – Dec 2025',
     current: false,
-    freelance: false,  
+    freelance: false,
     responsibilities: [
       'Assisted senior engineers in maintaining and improving batch data pipelines.',
       'Supported Snowflake data ingestion and transformation workflows during migration and operational activities.',
@@ -150,12 +150,13 @@ export const experience = [
     current: false,
     freelance: true,
     responsibilities: [
-    'Designed and developed custom websites and landing pages for startups and small businesses.',
-    'Built full-featured e-commerce platforms with product management, cart, and payment integrations.',
-    'Developed management systems including madrasa and school management systems.',
-    'Built AI automation workflows to streamline business operations and improve efficiency.',
-    'Conducted R&D on machine learning models and explored AI-driven solutions for real-world applications.',
-    'Collaborated directly with clients to gather requirements and deliver end-to-end web solutions.',
-  ],
+      'Designed and developed custom websites and landing pages for startups and small businesses.',
+      'Built full-featured e-commerce platforms with product management, cart, and payment integrations.',
+      'Developed management systems including madrasa and school management systems.',
+      'Built AI automation workflows to streamline business operations and improve efficiency.',
+      'Conducted R&D on machine learning models and explored AI-driven solutions for real-world applications.',
+      'Developed and customized Odoo ERP solutions and built tailored ERP systems to meet diverse business requirements.',
+      'Collaborated directly with clients to gather requirements and deliver end-to-end web solutions.',
+    ],
   },
 ];

@@ -68,6 +68,7 @@ Quick to learn new tools and technologies, with a strong system design and archi
 - Built AI automation workflows to streamline business operations and improve efficiency.
 - Conducted R&D on machine learning models and explored AI-driven solutions for real-world applications.
 - Collaborated directly with clients to gather requirements and deliver end-to-end web solutions.
+- Developed and customized Odoo ERP solutions and built tailored ERP systems to meet diverse business requirements.
 
 ## Languages
 - English  
@@ -75,8 +76,13 @@ Quick to learn new tools and technologies, with a strong system design and archi
 - Tamil  
 
 ## References
-- **Sanjeth Srikathirkkamanathan** – Assistant Director @ Acuity | sanjeth.srikathirkamanathan@acuitykp.com  
-- **Safnas Kaldeen** – Data Engineer @ SL Mobility | safnas@slmobility.com  
+- Per request will provide references.
+
+## International Opportunities
+
+Usmaan is open to international and overseas opportunities, including relocation and long-term employment. He is willing to work in countries such as Saudi Arabia (including Riyadh), the UAE, Qatar, Europe, and other international locations.
+
+He is passionate about solving real-world technical challenges and enjoys working in diverse, multicultural environments. He is confident in adapting quickly to new teams, technologies, and business domains, and is committed to demonstrating his skills and delivering high-quality results wherever he works.
 
 ## Important Note to ChatBot
 For any information not covered here, please reach out directly via LinkedIn or email.
