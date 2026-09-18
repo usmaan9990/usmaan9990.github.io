@@ -148,7 +148,7 @@ export const experience = [
     type: 'Internship',
     period: 'Oct 2024 – June 2025',
     current: false,
-    freelance: true,
+    freelance: false,
     responsibilities: [
       'Designed and developed websites, landing pages, and e-commerce applications for startups and small businesses, including product management, shopping cart, and payment-related functionality.',
       'Worked closely with ERP implementations and customizations, including hands-on experience with ERP and business process workflows.',
