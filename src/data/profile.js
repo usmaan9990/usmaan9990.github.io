@@ -142,6 +142,21 @@ export const experience = [
       'Collaborated with engineering and business teams to understand requirements and deliver actionable data solutions.',
     ],
   },
+   {
+    role: 'Software Engineer',
+    company: 'LetX Technologies',
+    type: 'Internship',
+    period: 'Oct 2024 – June 2025',
+    current: false,
+    freelance: true,
+    responsibilities: [
+      'Designed and developed websites, landing pages, and e-commerce applications for startups and small businesses, including product management, shopping cart, and payment-related functionality.',
+      'Worked closely with ERP implementations and customizations, including hands-on experience with ERP and business process workflows.',
+      'Conducted R&D on machine learning and AI-based solutions, including OCR-focused models for extracting and processing information from documents and images.',
+      'Developed an Apriori association-rule recommendation model for an ERP-based food ordering use case, automatically suggesting related food items based on customer purchasing patterns.',
+      'Assisted with the development and customization of ERP solutions, gaining practical exposure to how different business functions and workflows are managed through enterprise systems.',
+    ],
+  },
   {
     role: 'Freelance Developer',
     company: 'Self-Employed',
